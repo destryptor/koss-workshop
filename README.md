@@ -1,2 +1,0 @@
-# koss-workshop
-For Workshop
